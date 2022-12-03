@@ -1,7 +1,7 @@
 # LCM and GCD
 ---
 ### Task:
-![The task](https://i.imgur.com/95ezOOh.png)
+![The task](https://i.imgur.com/uFTGEJd.png)
 
 #### Language: Delphi
 
