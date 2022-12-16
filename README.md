@@ -1,13 +1,15 @@
 # LCM and GCD
 ---
 ### Task:
-![The task](https://i.imgur.com/uFTGEJd.png)
+![The task](https://i.imgur.com/N0Zlb7W.png)
+
+>Point a) finds GCD, point b) find LCM
 
 #### Language: Delphi
 
 ### Algorithm scheme for point a): 
 
-![Algorithm scheme for point a)](https://i.imgur.com/R20Wf1l.png)
+![Algorithm scheme for point a)](https://i.imgur.com/wzEfHVA.png)
 
 ### Code for point a):
 ``` pascal
@@ -103,7 +105,7 @@ End.
 
 ### Algorithm scheme for point b): 
 
-![Algorithm scheme for point a)](https://i.imgur.com/S6ZS5x6.png)
+![Algorithm scheme for point a)](https://i.imgur.com/WafnHBd.png)
 
 ### Code for point b):
 ``` pascal
